@@ -10,10 +10,11 @@ Repositório para armazenar resumos sobre Git e Github do Curso Bootcamp Santand
 
 ## 📖Resumos das Aulas
 
-| Aulas | Resumo |
+| Aulas | Resumos |
 |-------|---------|
-|Gravando alterações no Repositório Local | [resumos]
-(https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-bootcamp-2023-ciencia-de-dados-com-python&tab=undefined&moduleId=undefined)| 
+|Aula 01 | [resumos]() |
+ |Aula 02 | [resumos]() |
+ 
 
 ```
 git init
